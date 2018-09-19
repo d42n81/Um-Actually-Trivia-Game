@@ -1,1 +1,2 @@
 # Um-Actually Trivia Game
+This is a trivia game I created in Fall 2017, at the end of the semester of my first computer science class. It is inspired by CollegeHumor's Um-Actually series. The game uses DOM manipulation to alter statement and answer divs with the corresponding curated cards of geeky and nerdy trivia in order to make a fun and engaging party game that can be played with up to 4 players.
